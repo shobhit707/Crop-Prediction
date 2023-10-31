@@ -9,7 +9,7 @@
 
 
  ### Input:
- ![input](/ppt/input.png)
+ ![input](./ppt/input.png)
   ### Output:
-![output](/ppt/output.png)
+![output](./ppt/output.png)
 
