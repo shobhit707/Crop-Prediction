@@ -8,8 +8,5 @@
  
 
 
- ### Input:
- ![input](./ppt/input.png)
-  ### Output:
-![output](./ppt/output.png)
+ 
 
